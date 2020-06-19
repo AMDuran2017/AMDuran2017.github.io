@@ -19,7 +19,9 @@ Email: amduran@mymail.mines.edu
 ## About My Mentor
 
 Hyesoon Kim
+
 Associate Professor at Georgia Institute of Technology
+
 Email: hyesoon@cc.gatech.edu
 
 
