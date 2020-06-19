@@ -9,8 +9,11 @@ title: Summer 2020 DREU Project Site
 ## About Me
 
 Aaron Duran
+
 Senior at Coloado School of Mines
+
 Major: Computer Science + Computer Engineering
+
 Email: amduran@mymail.mines.edu
 
 ## About My Mentor
