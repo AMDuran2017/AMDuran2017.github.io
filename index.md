@@ -8,15 +8,21 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+Aaron Duran
+Senior at Coloado School of Mines
+Major: Computer Science + Computer Engineering
+Email: amduran@mymail.mines.edu
 
 ## About My Mentor
 
-Mentor info goes here.
+Hyesoon Kim
+Associate Professor at Georgia Institute of Technology
+Email: hyesoon@cc.gatech.edu
+
 
 ## About My Project
 
-Project description goes here.
+Investigating how socal interactions, bahaviors, and reactions have influanced the spread of COVID-19
 
 [My Final Report](files/finalreport.pdf)
 
