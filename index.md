@@ -21,6 +21,8 @@ Our overall goal with this project is to analyze how High-Performance Computing 
 
 [My Final Report](files/AaronDuran_DREUproject_FinalReport.pdf)
 
+[Metric Profiling Results](files/DeepLearnCovidCurePerfomanceMetrics.zip)
+
 ## My Blog
 
 [My Blog](blog.html)
